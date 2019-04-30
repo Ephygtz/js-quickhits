@@ -1,0 +1,10 @@
+[
+	{"username" : "CodeBeast"},
+	{"age" : 28},
+	{"fullName" : "The Guy"},
+	{"email" : "ephygtz@gmail.com"},
+	{"favColor" : "orange"},
+	{"petType" : "Hamster"},
+	{"petName" : "Mr. Chunkles"},
+	{"booleanFan": true}
+]

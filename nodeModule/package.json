@@ -1,0 +1,23 @@
+{
+  "name": "nodemoduletest",
+  "version": "1.0.0",
+  "description": "A simple module that sorts arrays of objects by key in ascending or descending order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ephygtz/simple-node-module.git"
+  },
+  "keywords": [
+    "array",
+    "sort"
+  ],
+  "author": "Ephraim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ephygtz/simple-node-module/issues"
+  },
+  "homepage": "https://github.com/Ephygtz/simple-node-module#readme"
+}
