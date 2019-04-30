@@ -1,0 +1,18 @@
+{
+  "name": "immutablejs",
+  "version": "1.0.0",
+  "description": "immutable js basics - a simple test of immutable.js list datatype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "immutability",
+    "immutable.js"
+  ],
+  "author": "ephraim",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
